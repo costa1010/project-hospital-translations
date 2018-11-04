@@ -106,7 +106,7 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_POLYGOT_DESCRIPTION</LocID>                <Text>Zmień język gry przynajmniej 3 razy.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TWINKLE</LocID>                            <Text>Od czegoś trzeba zacząć</Text>  </GameDBLocalizedString><!--after release-->
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TWINKLE_DESCRIPTION</LocID>                <Text>Miej jedną gwiazdkę prestiżu.</Text>  </GameDBLocalizedString> <!--after release-->
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE</LocID>                              <Text>You spin me right round baby right round...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE</LocID>                              <Text>Kręcisz mną kochanie, kręcisz mną...</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_EAGLE_DESCRIPTION</LocID>                  <Text>Obróć obiekt przynajmniej 4 razy przed postawieniem go.</Text>  </GameDBLocalizedString>
           
             <!--Campaign-->
