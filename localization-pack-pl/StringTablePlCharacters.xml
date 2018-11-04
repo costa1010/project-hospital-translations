@@ -10,59 +10,59 @@
         
     	<LocalizedStrings>
             <!-- Employee job titles -->
-            <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>Doctor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>                <Text>Nurse</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>Technologist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_JANITOR</LocID>              <Text>Janitor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FIRED</LocID>                           <Text>Fired</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_DOCTOR</LocID>               <Text>Lekarz</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_NURSE</LocID>                <Text>Pielęgniarka</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_LAB_SPECIALIST</LocID>       <Text>Technik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_JANITOR</LocID>              <Text>Salowy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FIRED</LocID>                           <Text>Zwolniony</Text>  </GameDBLocalizedString>
 
             <!-- Patient's jobs -->
-            <GameDBLocalizedString>      <LocID>OCCUPATION_OFFICE_JOB</LocID>           <Text>Office clerk</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_MANAGER</LocID>              <Text>Manager</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_ACCOUNTANT</LocID>           <Text>Accountant</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_TEACHER</LocID>              <Text>Teacher</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_COOK</LocID>                 <Text>Cook</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_FACTORY_WORKER</LocID>       <Text>Factory worker</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_CASHIER</LocID>              <Text>Cashier</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_ATHLETE</LocID>              <Text>Athlete</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_ACROBAT</LocID>              <Text>Acrobat</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_RETIRED</LocID>              <Text>Retired</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_OFFICE_JOB</LocID>           <Text>Pracownik biurowy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_MANAGER</LocID>              <Text>Dyrektor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ACCOUNTANT</LocID>           <Text>Księgowy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_TEACHER</LocID>              <Text>Nauczyciel</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_COOK</LocID>                 <Text>Kucharz</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_FACTORY_WORKER</LocID>       <Text>Pracownik fabryki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_CASHIER</LocID>              <Text>Kasjer</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ATHLETE</LocID>              <Text>Sportowiec</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ACROBAT</LocID>              <Text>Akrobata</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_RETIRED</LocID>              <Text>Emeryt</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>NONE</LocID>                            <Text>none</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NONE</LocID>                            <Text>Żaden</Text>  </GameDBLocalizedString>
             
             <!-- Perks staff -->
             <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS</LocID>               	<Text>Good Boss</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS_DESCRIPTION</LocID>      <Text>Improves satisfaction of supervised colleagues every morning.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER</LocID>               <Text>Fast learner</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER_DESCRIPTION</LocID>   <Text>Can level skills much faster.</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_SPARTAN</LocID>              		<Text>Spartan</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_SPARTAN_DESCRIPTION</LocID>   		<Text>All needs are reduced much slower.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SCHOLAR</LocID>              		<Text>Scholar</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_SCHOLAR_DESCRIPTION</LocID>   		<Text>Uses free time to study.</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_PEOPLE_PERSON</LocID>              <Text>People person</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_PEOPLE_PERSON_DESCRIPTION</LocID>  <Text>Reveals hidden perks of people after interacting with them.</Text>  </GameDBLocalizedString>
-        	<GameDBLocalizedString>      <LocID>PERK_GAMER</LocID>              		<Text>Gamer</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_GAMER_DESCRIPTION</LocID>  		<Text>Resting is much faster.</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER</LocID>               <Text>Slow learner</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER_DESCRIPTION</LocID>   <Text>Leveling skills is much slower.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE</LocID>               <Text>Long commute</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE_DESCRIPTION</LocID>   <Text>Long drive from home. Can be ofter late for work.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_ALCOHOLISM</LocID>                 <Text>Alcoholic</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_ALCOHOLISM_DESCRIPTION</LocID>     <Text>Will often show up late and hungover.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM</LocID>            <Text>Fast metabolism</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM_DESCRIPTION</LocID><Text>Hunger increases much faster.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET</LocID>                 <Text>Dirty feet</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET_DESCRIPTION</LocID>     <Text>Very dirty shoes. Leaves dirt everywhere.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS_DESCRIPTION</LocID>      <Text>Zwiększa satysfakcję nadzorowanych kolegów każdego ranka.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER</LocID>               <Text>Szybko pojmujący</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER_DESCRIPTION</LocID>   <Text>Potrafi znacznie szybciej nabywać umiejętności.</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SPARTAN</LocID>              		<Text>Wytrwały</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SPARTAN_DESCRIPTION</LocID>   		<Text>Wszystkie potrzeby są redukowane znacznie wolniej.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SCHOLAR</LocID>              		<Text>Słuchacz</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SCHOLAR_DESCRIPTION</LocID>   		<Text>Wykorzystuje wolny czas na naukę.</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_PEOPLE_PERSON</LocID>              <Text>Osoba fizyczna</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_PEOPLE_PERSON_DESCRIPTION</LocID>  <Text>Odsłania ukryte atuty ludzi po interakcji z nimi.</Text>  </GameDBLocalizedString>
+        	<GameDBLocalizedString>      <LocID>PERK_GAMER</LocID>              		<Text>Gracz</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_GAMER_DESCRIPTION</LocID>  		<Text>Odpoczynek jest znacznie szybszy.</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER</LocID>               <Text>Słaby uczeń</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER_DESCRIPTION</LocID>   <Text>Umiejętności uczenia się jest znacznie wolniejsza.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE</LocID>               <Text>Długi dojazd do pracy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE_DESCRIPTION</LocID>   <Text>Długa podróż z domu. Może być później w pracy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_ALCOHOLISM</LocID>                 <Text>Alkoholik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_ALCOHOLISM_DESCRIPTION</LocID>     <Text>Często się będzie spóźniał</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM</LocID>            <Text>Szybka premiana materii</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM_DESCRIPTION</LocID><Text>Głód narasta znacznie szybciej.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET</LocID>                 <Text>Brudne stopy</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET_DESCRIPTION</LocID>     <Text>Bardzo brudne buty. Wszędzie pozostawia ślady.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_PRACTICAL_DIAGNOSES</LocID>        <Text>Practical diagnoses</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_PRACTICAL_DIAGNOSES_DESCRIPTION</LocID><Text>20% bonus experience to diagnoses skill, after successful diagnosis.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE</LocID>               <Text>Restzistance</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE_DESCRIPTION</LocID>   <Text>Rest levels decrease slower.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT</LocID>               <Text>Fresh parent</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT_DESCRIPTION</LocID>   <Text>Rest levels decrease faster.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_GERMAPHOBE</LocID>                 <Text>Germophobe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_GERMAPHOBE_DESCRIPTION</LocID>     <Text>Washes hands three times more then usual.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_CHEMIST</LocID>                    <Text>Chemist</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_CHEMIST_DESCRIPTION</LocID>        <Text>Can clean floors much faster.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE</LocID>               <Text>Oporny</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE_DESCRIPTION</LocID>   <Text>Poziom odpoczynku wolniej spada </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT</LocID>               <Text>Świeży rodzic</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT_DESCRIPTION</LocID>   <Text>Poziom odpoczynku zmiejsza się szybciej</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_GERMAPHOBE</LocID>                 <Text>Germofob</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_GERMAPHOBE_DESCRIPTION</LocID>     <Text>Trzykrotnie częsciej myje ręce</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CHEMIST</LocID>                    <Text>Chemik</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_CHEMIST_DESCRIPTION</LocID>        <Text>Znacznie szybciej czyści podłogi</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_COMFORTING</LocID>                 <Text>Comforting</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_COMFORTING_DESCRIPTION</LocID>     <Text>Does not cause discomfort during examinations.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DIAGNOSTIC_GENIUS</LocID>          <Text>Diagnostic genius</Text>  </GameDBLocalizedString>
