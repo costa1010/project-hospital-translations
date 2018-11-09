@@ -12,20 +12,20 @@
             <!--actually in beta-->
             <!--indoor flooring-->
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CONSTRUCTION</LocID>      	            <Text>Construction floor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE_TILES</LocID>      	            <Text>White tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GREEN_LINE</LocID>      		            <Text>Thick colored line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE_LINE</LocID>      		            <Text>Thin colored line</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_APRICOT</LocID>                  <Text>Colored tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_BEIGE</LocID>                    <Text>Light tinted tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_TINY</LocID>                     <Text>Small white ceramic tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED</LocID>               		<Text>Medium white ceramic tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_COLOR</LocID>                <Text>Colored medium tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_AMAZON</LocID>               <Text>Light tinted medium tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_FILLED</LocID>      		    	<Text>Fully colored medium tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE</LocID>      			            <Text>White floor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLACK</LocID>     			            <Text>Black floor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE</LocID>      		            	<Text>Dark colored tile</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_DARK_LINE</LocID>      		    <Text>Dark colored tile with line</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE_TILES</LocID>      	            <Text>Białe płytki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_GREEN_LINE</LocID>      		            <Text>Gruba kolorowa linia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE_LINE</LocID>      		            <Text>cienka kolorowa linia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_APRICOT</LocID>                  <Text>Kolorowe płytki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_BEIGE</LocID>                    <Text>Lekkie barwione płytki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_TINY</LocID>                     <Text>Małe białe ceramiczne płytki </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED</LocID>               		<Text>Średnie białe cermaiczne płytki </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_COLOR</LocID>                <Text>Średnie kolorowe płytki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_MED_AMAZON</LocID>               <Text>Lekko zabarwione średnie płytki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_CERAMIC_FILLED</LocID>      		    	<Text>W pełni kolorowe średnie płytki</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WHITE</LocID>      			            <Text>Biała podłoga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLACK</LocID>     			            <Text>Carna podłoga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_BLUE</LocID>      		            	<Text>Płytka w ciemnym kolorze</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_DARK_LINE</LocID>      		    <Text>Płytka w ciemnym kolorze z linią</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_LIGHT</LocID>      		        <Text>Light colored tile</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_COLORED_LIGHT_LINE</LocID>      		    <Text>Light colored tile with line</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FLOOR_TYPE_WOOD_RIGHT</LocID>                       <Text>Laminate flooring</Text>  </GameDBLocalizedString>
